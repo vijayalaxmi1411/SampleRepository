@@ -1,0 +1,1 @@
+"C:\Program Files\eggplant\runscript.bat" "D:\Eggplant Training Suites\BasicTraining.suite\Scripts\Script1.script" -CommandLineOutput Yes
